@@ -1,1 +1,1 @@
-# PythonML-ICP4
+For this ICP we were asked to find the correlation between survivors and sex column for a data set relating to the Titanic - and discuss whether or not this data set is worth keeping. We were then asked to calculate bayes score for a given data set, and also the svm score for the same data set - then we wer eto discuss which method is more accurate and why. All of the above was done with Python and the scikit-learn library. 
